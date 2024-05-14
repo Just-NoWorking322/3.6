@@ -1,0 +1,51 @@
+body {
+    background-image: url('https://images.wallpaperscraft.ru/image/single/devushka_blondinka_plashch_1044103_3840x2160.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+
+.flex-container {
+    display: flex;
+    align-items: center; 
+}
+
+.flex-container h1 {
+    margin: 0;
+    font-family: "Comforter Brush", cursive;
+    font-weight: 400;
+    font-style: normal;
+    color: blue;
+    backdrop-filter: blur(10px);
+}
+
+.flex-container p {
+    margin: 0;
+    font-family: "Comforter Brush", cursive;
+    font-weight: 400;
+    font-style: normal;
+    color: red;
+}
+
+.bebebbebebe {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    font-size: 24px;
+    margin-top: 50px; 
+}
+.happy{
+font-size: large;
+}
+.vavavavva{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    font-size: 48px;
+    margin-top: 50px; 
+                                                                   
+    background: -webkit-linear-gradient(90deg, #fd3aeb,#ff848c,#dcc6b1);/* Chrome 10-25, Safari 5.1-6 */                  
+    background: linear-gradient(90deg, #fd3aeb,#ff848c,#dcc6b1);/* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */                                             ;
+}
